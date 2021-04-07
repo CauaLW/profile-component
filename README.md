@@ -13,7 +13,7 @@
 </p>
 
 <div align="center">
-   Projeto desenvolvido para aprimoramento de habilidades utilizando os fundamentos do desenvolvimento web, seguindo o desafio do DevChallenge<a href="https://www.devchallenge.com.br/challenges/5f0b4acaa5fec43156149044/details">(acesse aqui).</a>
+   Projeto desenvolvido para aprimoramento de habilidades utilizando os fundamentos do desenvolvimento web, seguindo o desafio do DevChallenge <a href="https://www.devchallenge.com.br/challenges/5f0b4acaa5fec43156149044/details">(acesse aqui)</a>.
 </div>
 
 <p align="center">
